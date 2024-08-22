@@ -1,0 +1,16 @@
+body{
+    background:linear-gradient(#f7f4f4 0%,#f4f1f1 10%,#818080 80%,#5c5a5a 100%);
+}
+.foto{
+    display:flex;
+    justify-content : center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    padding-bottom: 50px;
+   
+  }
+  .fotoii{
+    padding-bottom: 250px;
+  }
+  
